@@ -1,0 +1,17 @@
+﻿body {
+    font-family: "Open Sans", sans-serif;
+}
+
+header, footer {
+    background-color: #333;
+    color:#ddd;
+    padding:20px;
+    text-align:center;
+}
+
+.col-xs-12 {
+    height :100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}

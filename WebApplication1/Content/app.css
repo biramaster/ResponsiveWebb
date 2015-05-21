@@ -1,9 +1,10 @@
-﻿.col-xs-12 {
+﻿/*.col-xs-12 {
     height :100px;
     background-color: blue;
     color: white;
     text-align: center;
-}
+}*/
+
 body {
     font-family: 'Open Sans', sans-serif;
 }

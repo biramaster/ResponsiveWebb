@@ -84,6 +84,9 @@
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Prototype1\exempel2.html" />
     <Content Include="Prototype1\exempel3.html" />
+    <Content Include="Prototype1\exempel4.html" />
+    <Content Include="Prototype1\Exempel5.html" />
+    <Content Include="Prototype1\exempel6.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
